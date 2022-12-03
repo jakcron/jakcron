@@ -11,7 +11,8 @@ You'll find me programming in:
 * __Python__
 
 I'm learning:
-* 📱⌚️ Swift / iOS Development
+* __Rust__ 
+* 📱⌚️ __Swift__ / __iOS__ Development
 * Web APIs and related data models
 
 # Open Source Projects
